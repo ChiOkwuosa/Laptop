@@ -2,7 +2,7 @@
 ## ANALYSIS ON LAPTOP PROFILE IN YEAR 2024
 
 ### DASHBOARD
-![laptop](<image/Screenshot (337).png>)
+![Laptop](image/Laptop.png)
 
 ### DATA UNDERSTANDING
 - Dataset on the profile of various laptop brands in the year 2024.
